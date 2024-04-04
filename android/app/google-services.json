@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903851418512",
+    "project_id": "trustify-house",
+    "storage_bucket": "trustify-house.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903851418512:android:2a7442c0c9f21ce9240915",
+        "android_client_info": {
+          "package_name": "com.example.trustify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsRfiai2HZsgGmCpsWMAX_hph7NJ1lfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
